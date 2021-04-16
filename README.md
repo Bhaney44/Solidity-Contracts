@@ -8,6 +8,8 @@ Solidity Documentation PDF: https://buildmedia.readthedocs.org/media/pdf/solidit
 
 Solidity Developer Documentation: https://docs.soliditylang.org/en/v0.8.3/
 
-Remix Complier: remix.ethereum.org
+Remix Complier: https://remix.ethereum.org/
 
 Etherscan: https://etherscan.io/
+
+Ethereum White Paper: https://ethereum.org/en/whitepaper/
